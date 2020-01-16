@@ -7,4 +7,4 @@ def reverse_each_word(string)
   end
   reversed_sentence = reversed_words.join
   p reversed_sentence
-  
+end
