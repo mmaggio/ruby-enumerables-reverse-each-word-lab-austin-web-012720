@@ -5,5 +5,6 @@ def reverse_each_word(string)
     |n| n.reverse 
     reversed_words = n
   end
-  
+  reversed_sentence = reversed_words.join
+  p reversed words
   
